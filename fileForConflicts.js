@@ -4,7 +4,8 @@ function printSethsMessage(inputString){
     console.log(inputString);
 }
 
-printSethsMessage(`This is Seth's Message, Don't fuck with it!`);
+// printSethsMessage(`This is Seth's Message, Don't fuck with it!`);
+printSethsMessage(`Why not?`)
 
 function printJoshsMessage(inputString){
     console.log(inputString);
