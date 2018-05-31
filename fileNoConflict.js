@@ -1,5 +1,5 @@
-function printParameters(inputString){
-    console.log(inputString);
+function printParameters(inputString) {
+	console.log(inputString);
 }
 
-printParameters('This should Print')
+printParameters("This should Print");
